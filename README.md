@@ -1,0 +1,94 @@
+<p align="center">
+  <img src="assets/icon-128.png" width="112" alt="Mocha" />
+</p>
+
+<h1 align="center">Mocha 莫茶蛋糕</h1>
+
+<p align="center">
+  又快、又安靜、又安全的瀏覽器，專門為你泡的一杯 ☕ (*´▽`*)<br/>
+  <sub>繁體中文 ・ 简体中文 ・ English ・ 日本語</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/dangaow/mocha-releases/releases/latest"><b>⬇ 下載最新版（Windows）</b></a>
+</p>
+
+---
+
+## 下載安裝
+
+1. 到 [**Releases**](https://github.com/dangaow/mocha-releases/releases/latest) 下載 `Mocha-x.y.z-setup.exe`
+2. 雙擊安裝，可以自己選安裝位置
+3. 第一次打開會有一段可愛的引導：選語言、深色 / 淺色、背景，還能從 Chrome / Edge / Firefox 匯入書籤和瀏覽紀錄
+
+> **跳出「Windows 已保護您的電腦」？**
+> Mocha 目前還沒有數位簽章，點「**其他資訊**」→「**仍要執行**」就可以了 (｀・ω・´)ゞ
+
+**之後會自動更新**：有新版本時 Mocha 會在背景下載好，跳通知告訴你，點一下重新啟動就是新版了，分頁會自動還原。
+
+系統需求：Windows 10 / 11（64 位元）
+
+## 有什麼好玩的
+
+### 🛡️ 安全 & 隱私
+- **防詐騙**：高仿網站（例如把 `o` 換成 `0`、用長得很像的字母）會跳出警告，一鍵前往真正的網站
+- **防銀狐木馬**：下載偽裝成「安裝程式」的檔案時，會先隔離並檢查數位簽章，可疑的直接擋下來
+- **Cookie 不外露**：第三方 Cookie 預設封鎖，Cookie 在硬碟上加密保存
+- **廣告 & 追蹤攔截**：內建攔截器，網址裡的追蹤參數自動清掉
+- **密碼保存器**：用 Windows 系統金鑰加密，可以再加一道主密碼
+
+### 🎨 超高自訂度
+- 新分頁背景可以換**圖片**、甚至**影片**，介面顏色會自動跟著背景調整
+- 深色 / 淺色 / 跟隨系統、自訂強調色、背景變暗與模糊
+- 直式分頁（側邊）或橫式分頁（上方），介面大小可調
+- Apple 風格的彈簧動效，也可以一鍵減少動態效果
+
+### 🎵 音樂
+- 自動找到電腦裡的音樂軟體（網易雲音樂、QQ 音樂、Spotify…），一鍵打開
+- 頂部欄顯示正在播放的歌曲和封面，網頁和系統播放器都支援
+- 全螢幕歌詞、桌面歌詞
+
+### ⚡ 小巧思
+- 預設用 **Bing** 搜尋，可以換成 Google、DuckDuckGo、百度
+- 貼上 B 站的 **BV 號**（例如 `BV1tDWF6rEgM`）直接打開影片
+- 把連結拖到分頁列就開新分頁
+- 截圖（可見範圍 / 整頁 / 框選）、影片與資源嗅探、子母畫面、QR Code 分享
+- 藏了一些小彩蛋，找找看吧 (๑•̀ㅂ•́)و✧
+
+## 常見問題
+
+**打開後沒有出現視窗？**
+先到工作管理員結束所有 Mocha，再打開一次。還是不行的話，把 `%APPDATA%\Mocha\mocha-error.log` 的內容回報給我們。
+
+**防毒軟體說有問題？**
+因為還沒有數位簽章，部分防毒軟體可能會誤判。請只從這個頁面的 Releases 下載，並核對檔案的 SHA256。
+
+**怎麼移除？**
+Windows 設定 → 應用程式 → 找到 Mocha → 解除安裝。
+
+---
+
+<details>
+<summary><b>English</b></summary>
+
+**Mocha** is a fast, quiet and safe browser for Windows, freshly brewed just for you ☕
+
+- Download `Mocha-x.y.z-setup.exe` from [Releases](https://github.com/dangaow/mocha-releases/releases/latest) and run it.
+- If Windows shows "Windows protected your PC", click **More info → Run anyway** (Mocha isn't code-signed yet).
+- Mocha updates itself automatically.
+- Highlights: lookalike-domain and fake-installer protection, third-party cookie blocking, ad & tracker blocking, image/video new-tab backgrounds with adaptive colors, music app launcher, lyrics, and a few hidden easter eggs.
+
+</details>
+
+<details>
+<summary><b>日本語</b></summary>
+
+**Mocha** は、速くて静かで安全な Windows 用ブラウザです ☕
+
+- [Releases](https://github.com/dangaow/mocha-releases/releases/latest) から `Mocha-x.y.z-setup.exe` をダウンロードして実行してください。
+- 「Windows によって PC が保護されました」と表示されたら、**詳細情報 → 実行** をクリックしてください（まだコード署名がありません）。
+- 新しいバージョンは自動でアップデートされます。
+
+</details>
+
+<p align="center"><sub>這個 repo 只放安裝檔，Mocha 的原始碼不公開。</sub></p>
