@@ -30,6 +30,15 @@
 
 ## 有什麼好玩的
 
+### ☕ 工作臺：打開一個軟體就夠了
+Mocha 的主頁不是網頁，而是一張張可以拖動、放大、藏起來的小卡片：
+- **常用**：網站和電腦上的軟體放在同一格，一鍵打開
+- **待辦**：打勾會撒咖啡豆 ٩(ˊᗜˋ*)و
+- **專注模式**：番茄鐘，專注時自動擋掉分心網站
+- **摩卡筆記**：隨手記、自動儲存、可以搜尋
+- **剪貼簿歷史**：複製過的文字、連結、圖片都找得回來（預設關閉、只存在記憶體）
+- **小工具**：算式、單位換算（`10 km to mi`）、時間戳；`Ctrl+K` 也能直接算
+
 ### 🛡️ 安全 & 隱私
 - **防詐騙**：高仿網站（例如把 `o` 換成 `0`、用長得很像的字母）會跳出警告，一鍵前往真正的網站
 - **防銀狐木馬**：下載偽裝成「安裝程式」的檔案時，會先隔離並檢查數位簽章，可疑的直接擋下來
@@ -53,6 +62,7 @@
 - 貼上 B 站的 **BV 號**（例如 `BV1tDWF6rEgM`）直接打開影片
 - 把連結拖到分頁列就開新分頁
 - 截圖（可見範圍 / 整頁 / 框選）、影片與資源嗅探、子母畫面、QR Code 分享
+- 分頁當掉會顯示暈倒的摩卡杯，按一下就好；網頁卡住時會問你要不要等
 - 藏了一些小彩蛋，找找看吧 (๑•̀ㅂ•́)و✧
 
 ## 常見問題
@@ -76,7 +86,7 @@ Windows 設定 → 應用程式 → 找到 Mocha → 解除安裝。
 - Download `Mocha-x.y.z-setup.exe` from [Releases](https://github.com/dangaow/mocha-releases/releases/latest) and run it.
 - If Windows shows "Windows protected your PC", click **More info → Run anyway** (Mocha isn't code-signed yet).
 - Mocha updates itself automatically.
-- Highlights: lookalike-domain and fake-installer protection, third-party cookie blocking, ad & tracker blocking, image/video new-tab backgrounds with adaptive colors, music app launcher, lyrics, and a few hidden easter eggs.
+- Highlights: a native Workbench home (to-dos, focus timer that blocks distracting sites, notes, clipboard history, app launcher, calculator), lookalike-domain and fake-installer protection, third-party cookie blocking, ad & tracker blocking, image/video backgrounds with adaptive colors, music app launcher, lyrics, and a few hidden easter eggs.
 
 </details>
 
