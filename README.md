@@ -30,6 +30,12 @@
 
 ## 有什麼好玩的
 
+### 🚀 開機打開 Mocha 就夠了
+Mocha 不只是瀏覽器，而是每天開機第一個打開、整天開著的那個軟體：
+- **遊戲庫**：自動找到 Steam、Epic 的遊戲，還有原神、英雄聯盟、Battle.net 這類常見的遊戲，用封面排好，一鍵開玩，看得到每款玩了多久
+- **Alt+Space**：在任何程式裡按一下叫出 Mocha，打「原神」就開原神、打軟體名字就開軟體，也能搜尋、算算式
+- **開機自動打開**、**電腦狀態**（CPU、記憶體、硬碟、電池；記憶體快滿時一鍵讓分頁睡覺）
+
 ### ☕ 工作臺：打開一個軟體就夠了
 Mocha 的主頁不是網頁，而是一張張可以拖動、放大、藏起來的小卡片：
 - **常用**：網站和電腦上的軟體放在同一格，一鍵打開
@@ -60,7 +66,9 @@ Mocha 的主頁不是網頁，而是一張張可以拖動、放大、藏起來�
 ### ⚡ 小巧思
 - 預設用 **Bing** 搜尋，可以換成 Google、DuckDuckGo、百度
 - 貼上 B 站的 **BV 號**（例如 `BV1tDWF6rEgM`）直接打開影片
-- 把連結拖到分頁列就開新分頁
+- **分割畫面**：兩個分頁並排；**分頁休眠**：太久沒看的分頁自動睡覺省記憶體
+- 像 Edge 一樣：把分頁拖到視窗外變成獨立視窗；把連結或文字拖到分頁列就開新分頁
+- 開選單時網頁不會停住，影片照樣在播
 - 截圖（可見範圍 / 整頁 / 框選）、影片與資源嗅探、子母畫面、QR Code 分享
 - 分頁當掉會顯示暈倒的摩卡杯，按一下就好；網頁卡住時會問你要不要等
 - 藏了一些小彩蛋，找找看吧 (๑•̀ㅂ•́)و✧
@@ -86,6 +94,7 @@ Windows 設定 → 應用程式 → 找到 Mocha → 解除安裝。
 - Download `Mocha-x.y.z-setup.exe` from [Releases](https://github.com/dangaow/mocha-releases/releases/latest) and run it.
 - If Windows shows "Windows protected your PC", click **More info → Run anyway** (Mocha isn't code-signed yet).
 - Mocha updates itself automatically.
+- New in 0.2: a game library (Steam, Epic, Genshin Impact, League of Legends…), Alt+Space to summon Mocha from any app, split view, sleeping tabs, tearing tabs off into their own window, and a PC status card.
 - Highlights: a native Workbench home (to-dos, focus timer that blocks distracting sites, notes, clipboard history, app launcher, calculator), lookalike-domain and fake-installer protection, third-party cookie blocking, ad & tracker blocking, image/video backgrounds with adaptive colors, music app launcher, lyrics, and a few hidden easter eggs.
 
 </details>
