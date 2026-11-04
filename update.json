@@ -1,0 +1,93 @@
+{
+  "v": 1,
+  "latest": "1.1.0",
+  "versions": [
+    {
+      "version": "1.1.0",
+      "date": "2026-11-04T17:08:56.292Z",
+      "level": "normal",
+      "force": false
+    },
+    {
+      "version": "1.0.2",
+      "date": "2026-10-29T05:56:46Z",
+      "level": "normal",
+      "force": false
+    },
+    {
+      "version": "1.0.1",
+      "date": "2026-10-29T04:37:19Z",
+      "level": "normal",
+      "force": false
+    },
+    {
+      "version": "0.4.3",
+      "date": "2026-10-24T16:17:09Z",
+      "level": "normal",
+      "force": false
+    },
+    {
+      "version": "0.4.2",
+      "date": "2026-10-24T10:21:55Z",
+      "level": "normal",
+      "force": false
+    },
+    {
+      "version": "0.4.1",
+      "date": "2026-10-23T16:04:46Z",
+      "level": "normal",
+      "force": false
+    },
+    {
+      "version": "0.4.0",
+      "date": "2026-10-22T14:04:24Z",
+      "level": "normal",
+      "force": false
+    },
+    {
+      "version": "0.3.0",
+      "date": "2026-10-21T09:46:46Z",
+      "level": "normal",
+      "force": false
+    },
+    {
+      "version": "0.2.0",
+      "date": "2026-10-21T04:33:05Z",
+      "level": "normal",
+      "force": false
+    },
+    {
+      "version": "0.1.2",
+      "date": "2026-10-16T13:05:56Z",
+      "level": "normal",
+      "force": false
+    },
+    {
+      "version": "0.1.1",
+      "date": "2026-10-16T12:47:15Z",
+      "level": "normal",
+      "force": false
+    }
+  ],
+  "files": {
+    "setup": {
+      "name": "Mocha-1.1.0-setup.exe",
+      "size": 139735221,
+      "sha256": "a91e857112796921e5507febd64a7526fa03725cff5f7d1351c10bd2c83a1509",
+      "md5": "ce17b1ad663b56132077453deb0d3de9"
+    },
+    "zip": {
+      "name": "Mocha-1.1.0-win-x64.zip",
+      "size": 181349762,
+      "sha256": "338e5d71df31308c8a2cd1e62f07ad922f2e6840cf7feca68f4936b779d87228",
+      "md5": "c6dd8a82bb10a6db414e9957e181562f"
+    }
+  },
+  "mirrors": [
+    "https://mocha.makestudio.cn/download/{name}",
+    "https://github.com/dangaow/mocha-releases/releases/download/v{version}/{name}",
+    "https://ghfast.top/https://github.com/dangaow/mocha-releases/releases/download/v{version}/{name}",
+    "https://gh-proxy.com/https://github.com/dangaow/mocha-releases/releases/download/v{version}/{name}",
+    "https://ghproxy.net/https://github.com/dangaow/mocha-releases/releases/download/v{version}/{name}"
+  ]
+}
