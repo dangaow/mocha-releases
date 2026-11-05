@@ -1,7 +1,16 @@
 {
   "v": 1,
-  "latest": "1.1.0",
+  "latest": "1.1.2",
   "versions": [
+    {
+      "version": "1.1.2",
+      "date": "2026-11-05T13:36:57.208Z",
+      "level": "important",
+      "force": false,
+      "notes": {
+        "zh-TW": "修好：在設定的瀏覽紀錄、書籤點開網頁，會直接跳到那一頁；修好：一鍵安裝 uBlock Origin Lite 改從 Edge 商店下載，中國大陸也裝得了；修好：子母畫面小視窗裡點「進入詳情頁觀看」不會閃一下就沒了；修好：第一次打開擴充選單圖示撐滿整個選單；下載背景資源時左下角顯示進度"
+      }
+    },
     {
       "version": "1.1.0",
       "date": "2026-11-05T00:22:50.088Z",
@@ -71,16 +80,16 @@
   ],
   "files": {
     "setup": {
-      "name": "Mocha-1.1.0-setup.exe",
-      "size": 139735261,
-      "sha256": "38e8e9e568efb1c864012527871b0afadac57699a00fd6db89d96ff7b16b525c",
-      "md5": "583d4e2d0e1cbbd1066e03d75f035a9b"
+      "name": "Mocha-1.1.2-setup.exe",
+      "size": 120411383,
+      "sha256": "0c38719b81e4eb2022e787b5d50130ebcae33ea54fb22c1a662fd3f771bf5b42",
+      "md5": "760a30d25c576b26576ae3dcef139ab2"
     },
     "zip": {
-      "name": "Mocha-1.1.0-win-x64.zip",
-      "size": 181349579,
-      "sha256": "f2be9ef99f79356af158e2dfe39b4c85945f7fb9e02ff3b155e70114c1e04e8b",
-      "md5": "ee4133df77aabaae975bea34cd9f01c3"
+      "name": "Mocha-1.1.2-win-x64.zip",
+      "size": 162030625,
+      "sha256": "9ee2640a71a76fbb1593a0691cc0c1b304f182c9f0d2bd0f07c8c8d175d07f6e",
+      "md5": "8d7fd50391c521b89310f042c23c9830"
     }
   },
   "mirrors": [
