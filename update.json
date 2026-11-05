@@ -4,7 +4,7 @@
   "versions": [
     {
       "version": "1.1.0",
-      "date": "2026-11-04T17:08:56.292Z",
+      "date": "2026-11-05T00:22:50.088Z",
       "level": "normal",
       "force": false
     },
@@ -72,15 +72,15 @@
   "files": {
     "setup": {
       "name": "Mocha-1.1.0-setup.exe",
-      "size": 139735221,
-      "sha256": "a91e857112796921e5507febd64a7526fa03725cff5f7d1351c10bd2c83a1509",
-      "md5": "ce17b1ad663b56132077453deb0d3de9"
+      "size": 139735261,
+      "sha256": "38e8e9e568efb1c864012527871b0afadac57699a00fd6db89d96ff7b16b525c",
+      "md5": "583d4e2d0e1cbbd1066e03d75f035a9b"
     },
     "zip": {
       "name": "Mocha-1.1.0-win-x64.zip",
-      "size": 181349762,
-      "sha256": "338e5d71df31308c8a2cd1e62f07ad922f2e6840cf7feca68f4936b779d87228",
-      "md5": "c6dd8a82bb10a6db414e9957e181562f"
+      "size": 181349579,
+      "sha256": "f2be9ef99f79356af158e2dfe39b4c85945f7fb9e02ff3b155e70114c1e04e8b",
+      "md5": "ee4133df77aabaae975bea34cd9f01c3"
     }
   },
   "mirrors": [
