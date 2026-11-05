@@ -1,7 +1,16 @@
 {
   "v": 1,
-  "latest": "1.1.3",
+  "latest": "1.1.4",
   "versions": [
+    {
+      "version": "1.1.4",
+      "date": "2026-11-05T15:35:53.831Z",
+      "level": "normal",
+      "force": false,
+      "notes": {
+        "zh-TW": "影音工具箱的 ffmpeg 改從騰訊 CNB 下載，中國大陸更快"
+      }
+    },
     {
       "version": "1.1.3",
       "date": "2026-11-05T14:57:05.577Z",
@@ -89,16 +98,16 @@
   ],
   "files": {
     "setup": {
-      "name": "Mocha-1.1.3-setup.exe",
-      "size": 120408564,
-      "sha256": "3f0b5561c0bae89c3a56572c80e2dd41df73cfcaaf107cd0f1fffc50bcdd1b1a",
-      "md5": "9efbcba023ba4efc6be1e6ec3946d332"
+      "name": "Mocha-1.1.4-setup.exe",
+      "size": 120410066,
+      "sha256": "5c141eb710f203e5b592d2ead34fa504591a2e790fa8e482bee5685037593c34",
+      "md5": "9dff0fa3420aa07da94c350e267aae0f"
     },
     "zip": {
-      "name": "Mocha-1.1.3-win-x64.zip",
-      "size": 162395610,
-      "sha256": "05dc5c40ead6f3fd35940a157637c4a2a840be4c1a0d7fdedebbb46bf88499ae",
-      "md5": "c9b729eee47ebbdcffbef2f5d29778ab"
+      "name": "Mocha-1.1.4-win-x64.zip",
+      "size": 162396868,
+      "sha256": "df7745e1d33c2b86899b5e1dfbb6b3ae54844d805778e1580da94a29ae192771",
+      "md5": "95fda5013d0a58587f831dbd007f0459"
     }
   },
   "mirrors": [
