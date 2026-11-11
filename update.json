@@ -1,7 +1,16 @@
 {
   "v": 1,
-  "latest": "1.1.4",
+  "latest": "1.1.5",
   "versions": [
+    {
+      "version": "1.1.5",
+      "date": "2026-11-11T02:43:09.242Z",
+      "level": "normal",
+      "force": false,
+      "notes": {
+        "zh-TW": "2FA 驗證碼（設定 → 密碼）、檔案抽屜（工作臺新卡片）、休息提醒（設定 → 一般）"
+      }
+    },
     {
       "version": "1.1.4",
       "date": "2026-11-05T15:35:53.831Z",
@@ -98,16 +107,16 @@
   ],
   "files": {
     "setup": {
-      "name": "Mocha-1.1.4-setup.exe",
-      "size": 120410066,
-      "sha256": "5c141eb710f203e5b592d2ead34fa504591a2e790fa8e482bee5685037593c34",
-      "md5": "9dff0fa3420aa07da94c350e267aae0f"
+      "name": "Mocha-1.1.5-setup.exe",
+      "size": 120522630,
+      "sha256": "43e12638c481aa639023074f12e8d8894078889f3549affb6dfb6fe9cf1f6a9b",
+      "md5": "03b9d1debea51f10116b0d4cc00809fe"
     },
     "zip": {
-      "name": "Mocha-1.1.4-win-x64.zip",
-      "size": 162396868,
-      "sha256": "df7745e1d33c2b86899b5e1dfbb6b3ae54844d805778e1580da94a29ae192771",
-      "md5": "95fda5013d0a58587f831dbd007f0459"
+      "name": "Mocha-1.1.5-win-x64.zip",
+      "size": 162557207,
+      "sha256": "15f3e4c340ac7695545aec49d3c1b7f8549951a6b1e5d93a76a45760b2cba9b2",
+      "md5": "7c8590edc7dad9fa469bfd1609a6ef86"
     }
   },
   "mirrors": [
