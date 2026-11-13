@@ -69,7 +69,7 @@ Mocha 的主頁不是網頁，而是一張張可以拖動、放大、藏起來�
 
 | 一個月 | 一年 | 永久 |
 | :---: | :---: | :---: |
-| **¥4** | **¥15** | **¥40**（一次買斷 ♡） |
+| **¥5** | **¥15** | **¥40**（一次買斷 ♡） |
 
 > ♾ **會員保證**：功能永久免費更新，絕對不會再出新的會員或要花錢的地方！
 
@@ -104,7 +104,7 @@ Windows 設定 → 應用程式 → 找到 Mocha → 解除安裝。
 - Highlights: a native Workbench home (to-dos, notes, focus timer, game library, music), intro cards saved as lossless PNGs,
   lookalike-domain and fake-installer protection, revoked-certificate blocking, tracker blocking, encrypted local data,
   a JSON viewer and developer tools, reader mode and full-page translation, Chrome extensions, and a few hidden easter eggs.
-- **Mocha Membership** (¥4 / month, ¥15 / year, ¥40 forever — every member gets all future feature updates free, and there will never be a new tier or anything else to pay for): extra looks for Little Mocha and Mocha, plus a Mocha Account with end-to-end encrypted sync. All browser features stay free.
+- **Mocha Membership** (¥5 / month, ¥15 / year, ¥40 forever — every member gets all future feature updates free, and there will never be a new tier or anything else to pay for): extra looks for Little Mocha and Mocha, plus a Mocha Account with end-to-end encrypted sync. All browser features stay free.
 
 </details>
 
@@ -116,7 +116,7 @@ Windows 設定 → 應用程式 → 找到 Mocha → 解除安裝。
 - [Releases](https://github.com/dangaow/mocha-releases/releases/latest) から `Mocha-x.y.z-setup.exe` をダウンロードして実行してください。
 - 「Windows によって PC が保護されました」と表示されたら、**詳細情報 → 実行** をクリックしてください（まだコード署名がありません）。
 - アップデートはダウンロード後にファイルを確認してからインストールし、新しいバージョンが起動しなければ自動で元に戻します。
-- **Mocha メンバーシップ**（月 ¥4・年 ¥15・永久 ¥40。メンバーはこの先の機能アップデートもずっと無料、新しい課金は増やしません）：見た目の追加と、エンドツーエンド暗号化の同期。ブラウザの機能はずっと無料です。
+- **Mocha メンバーシップ**（月 ¥5・年 ¥15・永久 ¥40。メンバーはこの先の機能アップデートもずっと無料、新しい課金は増やしません）：見た目の追加と、エンドツーエンド暗号化の同期。ブラウザの機能はずっと無料です。
 
 </details>
 
