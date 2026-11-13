@@ -1,7 +1,16 @@
 {
   "v": 1,
-  "latest": "1.2.0",
+  "latest": "1.2.1",
   "versions": [
+    {
+      "version": "1.2.1",
+      "date": "2026-11-13T08:19:09.525Z",
+      "level": "normal",
+      "force": false,
+      "notes": {
+        "zh-TW": "修正「認識 Mocha」裡小莫茶擋住畫面的問題，現在可以正常點選了"
+      }
+    },
     {
       "version": "1.2.0",
       "date": "2026-11-13T07:07:31.447Z",
@@ -116,16 +125,16 @@
   ],
   "files": {
     "setup": {
-      "name": "Mocha-1.2.0-setup.exe",
-      "size": 121881264,
-      "sha256": "3d46c5d290b3eab1102982342503aa6c4a5101573e8649ea365b8586ebcf0aad",
-      "md5": "e723d4373819859060feb485d6637bac"
+      "name": "Mocha-1.2.1-setup.exe",
+      "size": 121882062,
+      "sha256": "db300a79bcd5be2a34175a5afc9128635fe03e448b8025874e0c6424b98657d5",
+      "md5": "8c1db7a058d70a0bb00f8ae06bb651fa"
     },
     "zip": {
-      "name": "Mocha-1.2.0-win-x64.zip",
-      "size": 162635305,
-      "sha256": "3fddd5f7ae84deda1e6fa0cf300d14577186bf8c3e54b94297b749c25b8ab4e0",
-      "md5": "f55eacfc148c2908b9ed1ec49565983c"
+      "name": "Mocha-1.2.1-win-x64.zip",
+      "size": 162636274,
+      "sha256": "944623d3c6df48637393d015e58f8613df2980f58edf1cd496ed5dcd7a5274d6",
+      "md5": "288028f55a0f925679f768ccf058e4a8"
     }
   },
   "mirrors": [
