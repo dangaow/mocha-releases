@@ -1,7 +1,16 @@
 {
   "v": 1,
-  "latest": "1.2.2",
+  "latest": "1.2.3",
   "versions": [
+    {
+      "version": "1.2.3",
+      "date": "2026-11-14T14:32:30.088Z",
+      "level": "normal",
+      "force": false,
+      "notes": {
+        "zh-TW": "修好 Google 登入，GitHub 的密鑰（passkey）也可以用了"
+      }
+    },
     {
       "version": "1.2.2",
       "date": "2026-11-13T09:03:51.593Z",
@@ -134,16 +143,16 @@
   ],
   "files": {
     "setup": {
-      "name": "Mocha-1.2.2-setup.exe",
-      "size": 121879416,
-      "sha256": "3719d29ec1e39d868286068c54c6f840d1dcdbec8212ace50479f265caec6114",
-      "md5": "90cf2fac36a940e525e164fe64f38d1e"
+      "name": "Mocha-1.2.3-setup.exe",
+      "size": 121874380,
+      "sha256": "9f1f2bf8b9dd5f07d6521b55b2b0d66adb4d202fd8dd3681a7c69b1cff79e3f0",
+      "md5": "bab074374bf38724bd7ca06eabf9f63c"
     },
     "zip": {
-      "name": "Mocha-1.2.2-win-x64.zip",
-      "size": 162632321,
-      "sha256": "13480222a19c748da6c2f2f8d052c9c8e8e798679fbc6c43c713d94ce0256755",
-      "md5": "ab6df4d24feb9e7fe434700629deacc8"
+      "name": "Mocha-1.2.3-win-x64.zip",
+      "size": 162631260,
+      "sha256": "45c68e446c04ed3a7eb2371ca92c0fb8cb762c9cf3cb1eb2652d3058c80c8319",
+      "md5": "56fd162a9dbe7e2abb31b524ecbf5106"
     }
   },
   "mirrors": [
