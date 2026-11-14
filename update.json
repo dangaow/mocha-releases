@@ -1,7 +1,16 @@
 {
   "v": 1,
-  "latest": "1.2.4",
+  "latest": "1.2.5",
   "versions": [
+    {
+      "version": "1.2.5",
+      "date": "2026-11-14T15:15:35.182Z",
+      "level": "important",
+      "force": true,
+      "notes": {
+        "zh-TW": "修好 Google 登入：補上 Chrome 才有的 window.chrome（app / csi / loadTimes / runtime），Google 不會再把 Mocha 認成內嵌瀏覽器"
+      }
+    },
     {
       "version": "1.2.4",
       "date": "2026-11-14T14:50:31.126Z",
@@ -152,16 +161,16 @@
   ],
   "files": {
     "setup": {
-      "name": "Mocha-1.2.4-setup.exe",
-      "size": 121879983,
-      "sha256": "d7692a5b8f3ad3ebda9e8bc257a6911ce5319efcb08b389e666c3ec3e132dfb7",
-      "md5": "40a7e772c0b4efc5fd470b72f54e425e"
+      "name": "Mocha-1.2.5-setup.exe",
+      "size": 121874716,
+      "sha256": "becc36f4eadf05cb6d1e2734ef95c0b7a96497483edd7c5eb231c43c6ff9ac66",
+      "md5": "5590d535725322eed5aa7d5fb3f10353"
     },
     "zip": {
-      "name": "Mocha-1.2.4-win-x64.zip",
-      "size": 162631161,
-      "sha256": "c1ddc159e5003637f63b67998eb85dd12cca2a2082450e197ae7093a4e3e12bd",
-      "md5": "2e58594680146028ccee419df98dd605"
+      "name": "Mocha-1.2.5-win-x64.zip",
+      "size": 162624833,
+      "sha256": "557ac0c4a90e6f7e3923370e9d71340b15b0ab134fdc188bb32226ef866ebd58",
+      "md5": "2edc69a9fc9787ed24d97a6d2c8cd7a8"
     }
   },
   "mirrors": [
