@@ -1,7 +1,16 @@
 {
   "v": 1,
-  "latest": "1.2.3",
+  "latest": "1.2.4",
   "versions": [
+    {
+      "version": "1.2.4",
+      "date": "2026-11-14T14:50:31.126Z",
+      "level": "important",
+      "force": true,
+      "notes": {
+        "zh-TW": "修好 Google 登入：網址列的版本號、Client Hints 都改成和真正的 Chrome 一致，不再被當成內嵌瀏覽器"
+      }
+    },
     {
       "version": "1.2.3",
       "date": "2026-11-14T14:36:36.918Z",
@@ -143,16 +152,16 @@
   ],
   "files": {
     "setup": {
-      "name": "Mocha-1.2.3-setup.exe",
-      "size": 121874380,
-      "sha256": "9f1f2bf8b9dd5f07d6521b55b2b0d66adb4d202fd8dd3681a7c69b1cff79e3f0",
-      "md5": "bab074374bf38724bd7ca06eabf9f63c"
+      "name": "Mocha-1.2.4-setup.exe",
+      "size": 121879983,
+      "sha256": "d7692a5b8f3ad3ebda9e8bc257a6911ce5319efcb08b389e666c3ec3e132dfb7",
+      "md5": "40a7e772c0b4efc5fd470b72f54e425e"
     },
     "zip": {
-      "name": "Mocha-1.2.3-win-x64.zip",
-      "size": 162631260,
-      "sha256": "45c68e446c04ed3a7eb2371ca92c0fb8cb762c9cf3cb1eb2652d3058c80c8319",
-      "md5": "56fd162a9dbe7e2abb31b524ecbf5106"
+      "name": "Mocha-1.2.4-win-x64.zip",
+      "size": 162631161,
+      "sha256": "c1ddc159e5003637f63b67998eb85dd12cca2a2082450e197ae7093a4e3e12bd",
+      "md5": "2e58594680146028ccee419df98dd605"
     }
   },
   "mirrors": [
