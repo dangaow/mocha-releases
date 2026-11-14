@@ -4,9 +4,9 @@
   "versions": [
     {
       "version": "1.2.3",
-      "date": "2026-11-14T14:32:30.088Z",
-      "level": "normal",
-      "force": false,
+      "date": "2026-11-14T14:36:36.918Z",
+      "level": "important",
+      "force": true,
       "notes": {
         "zh-TW": "修好 Google 登入，GitHub 的密鑰（passkey）也可以用了"
       }
