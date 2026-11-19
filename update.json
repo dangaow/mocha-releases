@@ -1,7 +1,16 @@
 {
   "v": 1,
-  "latest": "1.3.1",
+  "latest": "1.3.2",
   "versions": [
+    {
+      "version": "1.3.2",
+      "date": "2026-11-19T12:30:22.939Z",
+      "level": "important",
+      "force": false,
+      "notes": {
+        "zh-TW": "B 站可以下 1080P 了：画面和声音分开拿，再用 FFmpeg 合成一个 mp4，1080P / 1080P60 / 1080P+ 都行。第一次下高清会先问一声装 FFmpeg（约 58 MB，走腾讯 CNB，只装一次），装完自动接着下。萌语全部改成简体中文。"
+      }
+    },
     {
       "version": "1.3.1",
       "date": "2026-11-19T09:11:23.580Z",
@@ -179,16 +188,16 @@
   ],
   "files": {
     "setup": {
-      "name": "Mocha-1.3.1-setup.exe",
-      "size": 120599212,
-      "sha256": "9e3fe2fd434ad7671095ad04764dfcf2b6540c12d43d6df7a73a5f597746aef6",
-      "md5": "1ed9925c0afcb6f99973141726c4e0ca"
+      "name": "Mocha-1.3.2-setup.exe",
+      "size": 120595835,
+      "sha256": "d1523aac9b132422ed8688e2f6cc934ffd723ca639d742da3f7f6ef81d41bb88",
+      "md5": "c0397bb8f8e2591cac435a283cba6549"
     },
     "zip": {
-      "name": "Mocha-1.3.1-win-x64.zip",
-      "size": 162672455,
-      "sha256": "cc27ef6d55848bace0502d3922149a79caec07f9369de9633635fcec8f6c4058",
-      "md5": "3374b0ab60c9cb088d4ece456a3cc797"
+      "name": "Mocha-1.3.2-win-x64.zip",
+      "size": 162664050,
+      "sha256": "53af696dfc1fbe6a2b474539bfb3cd59a21004f8f57c02213a543d633663be2e",
+      "md5": "5d83f39e7368e720d3282a6604fd9934"
     }
   },
   "mirrors": [
