@@ -1,7 +1,16 @@
 {
   "v": 1,
-  "latest": "1.3.2",
+  "latest": "1.3.3",
   "versions": [
+    {
+      "version": "1.3.3",
+      "date": "2026-11-20T08:34:33.037Z",
+      "level": "normal",
+      "force": false,
+      "notes": {
+        "zh-TW": "網易雲音樂 + BetterNCM：裝了網易雲的話，Mocha 第一次發現就會問你要不要讓它變得好看又好用——內建安裝器和 21 個插件，一鍵幫你放到好（沒有恢復灰色音源那類插件）\n音樂面板多了 BetterNCM 引導卡片：裝到哪一步、還差什麼，一眼就看得到\n設定 → 一般多了「網易雲音樂」，按一下就能再打開引導（按過「不再提醒」也找得回來）"
+      }
+    },
     {
       "version": "1.3.2",
       "date": "2026-11-19T12:30:22.939Z",
@@ -188,16 +197,16 @@
   ],
   "files": {
     "setup": {
-      "name": "Mocha-1.3.2-setup.exe",
-      "size": 120595835,
-      "sha256": "d1523aac9b132422ed8688e2f6cc934ffd723ca639d742da3f7f6ef81d41bb88",
-      "md5": "c0397bb8f8e2591cac435a283cba6549"
+      "name": "Mocha-1.3.3-setup.exe",
+      "size": 124847413,
+      "sha256": "e0a14ec410826e2332b2fabbd73aa3c14a05189d8d6c83e6e0b77f6d97bf9056",
+      "md5": "ea0d5b6c583d8f4e0167b261d7bbdddf"
     },
     "zip": {
-      "name": "Mocha-1.3.2-win-x64.zip",
-      "size": 162664050,
-      "sha256": "53af696dfc1fbe6a2b474539bfb3cd59a21004f8f57c02213a543d633663be2e",
-      "md5": "5d83f39e7368e720d3282a6604fd9934"
+      "name": "Mocha-1.3.3-win-x64.zip",
+      "size": 165687258,
+      "sha256": "9b49469c1fe5a424304d01464918b13c67fc6c42eaffa1c48c6ad195b7a1775b",
+      "md5": "01c30fa4761dee692008badd161fa027"
     }
   },
   "mirrors": [
