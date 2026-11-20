@@ -1,7 +1,16 @@
 {
   "v": 1,
-  "latest": "1.3.4",
+  "latest": "1.3.5",
   "versions": [
+    {
+      "version": "1.3.5",
+      "date": "2026-11-20T12:44:16.952Z",
+      "level": "normal",
+      "force": false,
+      "notes": {
+        "zh-TW": "1.3.5 更新說明\n・網易雲 + BetterNCM：設定 → 一般 →「網易雲音樂」的按鈕現在真的會打開引導卡（之前按了沒反應）；卡片右上角的「重新檢查」會轉一下，確認狀態有沒有變\n・影片下載器：第一次下載 1080P 要抓 FFmpeg 時，Mocha 會跳提示卡並顯示「正在準備 FFmpeg 12%」「下載畫面 42%」「合併中…」，不會再像卡死；下載器面板裡也多了進度條\n・網易雲提示只檢查一次：第一次開 Mocha 記住結果之後就不再掃描；本來就裝了 BetterNCM 的不會再問"
+      }
+    },
     {
       "version": "1.3.4",
       "date": "2026-11-20T12:20:06.961Z",
@@ -206,16 +215,16 @@
   ],
   "files": {
     "setup": {
-      "name": "Mocha-1.3.4-setup.exe",
-      "size": 124855583,
-      "sha256": "a2f86946f409441bae69b515b5f5ed6d8f86e665cea7da552940644cced31d5a",
-      "md5": "b2ec5770544e9b4b76152ede83753347"
+      "name": "Mocha-1.3.5-setup.exe",
+      "size": 124845369,
+      "sha256": "8b76e72ca48279d6a63cfc5d60af5a591652b4dba329c38bf9f312fe78a4cbe6",
+      "md5": "e8457cefb4a32ea87900ccd50da388c0"
     },
     "zip": {
-      "name": "Mocha-1.3.4-win-x64.zip",
-      "size": 165697076,
-      "sha256": "0749287141149165067fc4e94aa681777571ffa8c61cd272d21153e98c0de095",
-      "md5": "d3498bcf8ef555c88cbd8558f2d889cb"
+      "name": "Mocha-1.3.5-win-x64.zip",
+      "size": 165687344,
+      "sha256": "80ff70c43cb5fed4051f1f841f698b449a16901fb1c0abb60a0b2eb2921616a1",
+      "md5": "2a057d3b205b0abd9b34ee3d8f558bc7"
     }
   },
   "mirrors": [
